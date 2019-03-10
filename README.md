@@ -1,2 +1,2 @@
 # Credit-Card-Fraud
-Hybrid Model (SOMs and ANN)
+Hybrid Model (SOMs and ANN).
